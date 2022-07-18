@@ -1,9 +1,6 @@
 name: Update badges
 
 on:
-  schedule:
-    # Runs at 0am UTC every day
-    - cron: "0 0 * * *"
   workflow_dispatch:
   
 jobs:
@@ -13,3 +10,5 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main 
+        with:
+          CREDLY_USER: christopher-hornberger.87ad83d9
