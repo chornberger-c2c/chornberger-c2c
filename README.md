@@ -1,4 +1,4 @@
-Consulting in process automation of Open Source IT infrastructures.
+Specialist for process automation of Open Source IT infrastructures.
 
 
 Interested in all things Red Hat.
