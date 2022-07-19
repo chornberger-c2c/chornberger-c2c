@@ -1,7 +1,8 @@
+Consulting in process automation of Open Source IT infrastructures.
+
+
 Interested in all things Red Hat.
 
-
-Consulting in process automation of Open Source IT infrastructures.
 
 <!--START_SECTION:badges-->
 [![Red Hat® Certified Specialist in Identity Management](https://images.credly.com/size/110x110/images/c79ddd59-b2b4-40bd-b3bd-e64a77bdde7e/image.png)](http://www.credly.com/badges/c5dc3713-6cd1-4c81-9f66-0192384a20ce "Red Hat® Certified Specialist in Identity Management")
