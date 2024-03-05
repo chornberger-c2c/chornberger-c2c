@@ -1,4 +1,4 @@
-Specialist for process automation in OSS infrastructures -
+Specialist for process automation in Open Source infrastructures -
 
 with a focus on the Red Hat ecosystem (Satellite, Ansible and OpenShift).
 
